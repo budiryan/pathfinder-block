@@ -5,7 +5,7 @@ Robocon pathfinder in grid coordinate system utilizing pathfinding.js
 Budi Ryan
 
 #Live Demo:
-http://www.budiryan.xyz/
+http://ihome.ust.hk/~bryanaa/pathfinder-block/
 
 #Notice when intalling (In case you don't want a live demo):
 Install all the dependencies using bower install
